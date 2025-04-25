@@ -1,0 +1,52 @@
+{
+    "screenshot": [
+        "take a screenshot",
+        "capture screen",
+        "screenshot please",
+        "take screenshot",
+        "grab screenshot",
+        "save screen"
+    ],
+    "youtube_search": [
+        "search youtube for",
+        "find videos of",
+        "search for videos",
+        "look up on youtube",
+        "youtube search"
+    ],
+    "youtube_play": [
+        "play on youtube",
+        "play video",
+        "start playing",
+        "youtube play",
+        "watch video"
+    ],
+    "system_control": [
+        "open chrome",
+        "launch notepad",
+        "start calculator",
+        "minimize window",
+        "maximize window"
+    ],
+    "media_control": [
+        "pause video",
+        "play music",
+        "stop playback",
+        "next track",
+        "volume up"
+    ],
+    "system_info": [
+        "check cpu usage",
+        "show memory",
+        "battery status",
+        "system information",
+        "show temperature"
+    ],
+    "web_search": [
+        "search for",
+        "look up",
+        "find information about",
+        "google",
+        "search web for"
+    ]
+}

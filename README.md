@@ -41,7 +41,7 @@ AI_Desktop_Assistant/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AI_Desktop_Assistant.git
+git clone https://github.com/yourusername/Zenith--AI-based-Desktop-Assistant.git
 cd AI_Desktop_Assistant
 ```
 

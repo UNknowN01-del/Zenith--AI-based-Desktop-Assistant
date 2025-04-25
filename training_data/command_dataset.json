@@ -1,0 +1,1070 @@
+{
+    "metadata": {
+        "version": "1.0.0",
+        "last_updated": "2025-04-11",
+        "total_commands": 150,
+        "categories": {
+            "system_control": "Commands to control system operations and applications",
+            "media_control": "Commands to control media playback",
+            "system_info": "Commands to retrieve system information",
+            "web_search": "Commands to search the web",
+            "video_control": "Commands for YouTube and video operations",
+            "screenshot": "Commands to take screenshots",
+            "info_request": "Commands to request information like weather or news"
+        }
+    },
+    "commands": [
+        {
+            "text": "take a screenshot",
+            "category": "screenshot",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "capture screen",
+            "category": "screenshot",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "take screenshot",
+            "category": "screenshot",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "capture my screen",
+            "category": "screenshot",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "screenshot now",
+            "category": "screenshot",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "take a picture of my screen",
+            "category": "screenshot",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "save my screen",
+            "category": "screenshot",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "grab a screenshot",
+            "category": "screenshot",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "show cpu usage",
+            "category": "system_info",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "show memory status",
+            "category": "system_info",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "check system information",
+            "category": "system_info",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "what's my cpu usage",
+            "category": "system_info",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "show disk space",
+            "category": "system_info",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "check memory usage",
+            "category": "system_info",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "system status",
+            "category": "system_info",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "how much disk space do I have",
+            "category": "system_info",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "play music",
+            "category": "media_control",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "pause music",
+            "category": "media_control",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "next track",
+            "category": "media_control",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "previous track",
+            "category": "media_control",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "play shape of you on youtube",
+            "category": "web_search",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "search youtube for bollywood songs",
+            "category": "web_search",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "open notepad",
+            "category": "system_control",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "start chrome",
+            "category": "system_control",
+            "timestamp": "2024-03-20T10:00:00"
+        },
+        {
+            "text": "play never say never on youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-10T20:26:17.050580"
+        },
+        {
+            "text": "play first video on youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-10T20:26:39.972370"
+        },
+        {
+            "text": "play second video on youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-10T20:30:29.098789"
+        },
+        {
+            "text": "what's happening in world",
+            "category": "web_search",
+            "timestamp": "2025-03-10T20:32:13.997834"
+        },
+        {
+            "text": "youtube search for music",
+            "category": "video_control",
+            "timestamp": "2025-03-15T10:26:37.681348"
+        },
+        {
+            "text": "next",
+            "category": "media_control",
+            "timestamp": "2025-03-15T10:27:34.180478"
+        },
+        {
+            "text": "play despacito on youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-15T10:52:36.189262"
+        },
+        {
+            "text": "watch a movie",
+            "category": "video_control",
+            "timestamp": "2025-03-15T11:42:34.564296"
+        },
+        {
+            "text": "start a video",
+            "category": "video_control",
+            "timestamp": "2025-03-15T11:50:58.807624"
+        },
+        {
+            "text": "stop",
+            "category": "media_control",
+            "timestamp": "2025-03-15T11:51:30.827859"
+        },
+        {
+            "text": "volume down",
+            "category": "system_control",
+            "timestamp": "2025-03-15T11:51:57.663101"
+        },
+        {
+            "text": "increase volume",
+            "category": "system_control",
+            "timestamp": "2025-03-15T11:52:27.681573"
+        },
+        {
+            "text": "start video",
+            "category": "video_control",
+            "timestamp": "2025-03-15T11:56:07.655714"
+        },
+        {
+            "text": "pause video",
+            "category": "media_control",
+            "timestamp": "2025-03-15T11:56:38.402345"
+        },
+        {
+            "text": "play video",
+            "category": "video_control",
+            "timestamp": "2025-03-15T12:00:49.514134"
+        },
+        {
+            "text": "search about laptop on google",
+            "category": "web_search",
+            "timestamp": "2025-03-28T05:22:42.125789"
+        },
+        {
+            "text": "youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-28T05:23:19.847632"
+        },
+        {
+            "text": "song on youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-28T05:24:01.546219"
+        },
+        {
+            "text": "search arijit singh on youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-28T11:03:31.665363"
+        },
+        {
+            "text": "open youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-28T11:05:32.879295"
+        },
+        {
+            "text": "open instagram",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:06:32.382040"
+        },
+        {
+            "text": "search arijit singh songs on youtube",
+            "category": "video_control",
+            "timestamp": "2025-03-28T11:11:44.658784"
+        },
+        {
+            "text": "open settings",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:16:11.603057"
+        },
+        {
+            "text": "call maximize the window",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:16:54.719572"
+        },
+        {
+            "text": "cpu usage",
+            "category": "system_info",
+            "timestamp": "2025-03-28T11:17:25.385136"
+        },
+        {
+            "text": "maximize",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:18:49.695185"
+        },
+        {
+            "text": "open youtube and play arijit singh songs",
+            "category": "video_control",
+            "timestamp": "2025-03-28T11:30:30.951243"
+        },
+        {
+            "text": "minimise the window",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:31:25.878924"
+        },
+        {
+            "text": "screenshot",
+            "category": "screenshot",
+            "timestamp": "2025-03-28T11:31:53.221332"
+        },
+        {
+            "text": "set volume to 50%",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:42:45.287911"
+        },
+        {
+            "text": "set",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:43:37.531072"
+        },
+        {
+            "text": "set brightness to 70%",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:44:01.779109"
+        },
+        {
+            "text": "set brightness to 50%",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:50:22.142795"
+        },
+        {
+            "text": "show memory usage",
+            "category": "system_info",
+            "timestamp": "2025-03-28T11:51:21.108952"
+        },
+        {
+            "text": "minimise window",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:57:09.631376"
+        },
+        {
+            "text": "increase brightness",
+            "category": "system_control",
+            "timestamp": "2025-03-28T11:57:30.764816"
+        },
+        {
+            "text": "check my battery",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:15:00.000000"
+        },
+        {
+            "text": "battery status",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:15:30.000000"
+        },
+        {
+            "text": "battery level",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:16:00.000000"
+        },
+        {
+            "text": "check battery level",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:16:30.000000"
+        },
+        {
+            "text": "how much battery do I have",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:17:00.000000"
+        },
+        {
+            "text": "check wifi",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:17:30.000000"
+        },
+        {
+            "text": "wifi status",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:18:00.000000"
+        },
+        {
+            "text": "check network",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:18:30.000000"
+        },
+        {
+            "text": "network status",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:19:00.000000"
+        },
+        {
+            "text": "show wifi info",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:19:30.000000"
+        },
+        {
+            "text": "what's my wifi connection",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:20:00.000000"
+        },
+        {
+            "text": "show memory usage",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:20:30.000000"
+        },
+        {
+            "text": "memory information",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:21:00.000000"
+        },
+        {
+            "text": "check ram",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:21:30.000000"
+        },
+        {
+            "text": "how much ram is being used",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:22:00.000000"
+        },
+        {
+            "text": "system monitor",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:22:30.000000"
+        },
+        {
+            "text": "disk space",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:23:00.000000"
+        },
+        {
+            "text": "check hard drive",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:23:30.000000"
+        },
+        {
+            "text": "processor information",
+            "category": "system_info",
+            "timestamp": "2025-04-10T09:24:00.000000"
+        },
+        {
+            "text": "increase brightness",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:30:00.000000"
+        },
+        {
+            "text": "decrease brightness",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:30:30.000000"
+        },
+        {
+            "text": "set brightness to 50 percent",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:31:00.000000"
+        },
+        {
+            "text": "brightness up",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:31:30.000000"
+        },
+        {
+            "text": "brightness down",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:32:00.000000"
+        },
+        {
+            "text": "make screen brighter",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:32:30.000000"
+        },
+        {
+            "text": "make screen dimmer",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:33:00.000000"
+        },
+        {
+            "text": "set brightness to 75%",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:33:30.000000"
+        },
+        {
+            "text": "set brightness to maximum",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:34:00.000000"
+        },
+        {
+            "text": "set brightness to minimum",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:34:30.000000"
+        },
+        {
+            "text": "full brightness",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:35:00.000000"
+        },
+        {
+            "text": "lower brightness",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:35:30.000000"
+        },
+        {
+            "text": "adjust brightness",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:36:00.000000"
+        },
+        {
+            "text": "set volume to 50 percent",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:40:00.000000"
+        },
+        {
+            "text": "increase volume",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:40:30.000000"
+        },
+        {
+            "text": "decrease volume",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:41:00.000000"
+        },
+        {
+            "text": "volume up",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:41:30.000000"
+        },
+        {
+            "text": "volume down",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:42:00.000000"
+        },
+        {
+            "text": "make it louder",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:42:30.000000"
+        },
+        {
+            "text": "make it quieter",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:43:00.000000"
+        },
+        {
+            "text": "turn up the volume",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:43:30.000000"
+        },
+        {
+            "text": "turn down the volume",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:44:00.000000"
+        },
+        {
+            "text": "set volume to 75%",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:44:30.000000"
+        },
+        {
+            "text": "set volume to maximum",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:45:00.000000"
+        },
+        {
+            "text": "set volume to minimum",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:45:30.000000"
+        },
+        {
+            "text": "full volume",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:46:00.000000"
+        },
+        {
+            "text": "mute",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:46:30.000000"
+        },
+        {
+            "text": "unmute",
+            "category": "system_control",
+            "timestamp": "2025-04-10T09:47:00.000000"
+        },
+        {
+            "text": "set volume to set brightness to 50%",
+            "category": "system_control",
+            "timestamp": "2025-03-28T12:06:13.666119"
+        },
+        {
+            "text": "play as a stuff on youtube",
+            "category": "media_control",
+            "timestamp": "2025-03-28T12:10:11.595186"
+        },
+        {
+            "text": "play arijit singh song on youtube",
+            "category": "media_control",
+            "timestamp": "2025-03-28T12:10:34.413655"
+        },
+        {
+            "text": "search about laptop",
+            "category": "web_search",
+            "timestamp": "2025-04-16T10:47:44.598531"
+        },
+        {
+            "text": "Ajit Singh song on YouTube",
+            "category": "video_control",
+            "timestamp": "2025-04-16T10:48:19.328781"
+        },
+        {
+            "text": "Arijit Singh song on YouTube",
+            "category": "video_control",
+            "timestamp": "2025-04-16T10:52:04.760318"
+        },
+        {
+            "text": "switch on Google artificial intelligence",
+            "category": "web_search",
+            "timestamp": "2025-04-16T11:05:31.292965"
+        },
+        {
+            "text": "battery and Wi-Fi status",
+            "category": "system_info",
+            "timestamp": "2025-04-16T11:06:03.022750"
+        },
+        {
+            "text": "memory status",
+            "category": "system_info",
+            "timestamp": "2025-04-16T11:11:13.301279"
+        },
+        {
+            "text": "system information",
+            "category": "system_info",
+            "timestamp": "2025-04-16T11:12:00.699859"
+        },
+        {
+            "text": "open Chrome",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:34:45.260226"
+        },
+        {
+            "text": "launch notepad",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:34:55.431342"
+        },
+        {
+            "text": "increase volume by 10%",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:35:24.880005"
+        },
+        {
+            "text": "please volume by 10%",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:35:29.418729"
+        },
+        {
+            "text": "decrease volume by 10%",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:35:32.049405"
+        },
+        {
+            "text": "decrease volume by 30%",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:35:40.299792"
+        },
+        {
+            "text": "volume to 30%",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:35:58.946352"
+        },
+        {
+            "text": "set volume to 12%",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:36:05.572534"
+        },
+        {
+            "text": "decrease volume to 12",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:36:12.871855"
+        },
+        {
+            "text": "brightness to 70%",
+            "category": "system_control",
+            "timestamp": "2025-04-16T11:36:26.265343"
+        },
+        {
+            "text": "Arijit",
+            "category": "web_search",
+            "timestamp": "2025-04-16T23:03:13.945150"
+        },
+        {
+            "text": "take a screenshot",
+            "category": "web_search",
+            "timestamp": "2025-04-16T23:05:40.893255"
+        },
+        {
+            "text": "play the latest music video on youtube",
+            "category": "youtube_play",
+            "timestamp": "2025-04-11T10:00:00"
+        },
+        {
+            "text": "search youtube for funny cat videos",
+            "category": "youtube_search",
+            "timestamp": "2023-10-16 16:25:15"
+        },
+        {
+            "text": "play top hits on youtube",
+            "category": "youtube_play",
+            "timestamp": "2025-04-11T10:00:00"
+        },
+        {
+            "text": "search youtube for cooking tutorials",
+            "category": "youtube_search",
+            "timestamp": "2025-04-11T10:00:00"
+        },
+        {
+            "text": "play workout music on youtube",
+            "category": "youtube_play",
+            "timestamp": "2025-04-11T10:00:00"
+        },
+        {
+            "text": "search youtube for news updates",
+            "category": "youtube_search",
+            "timestamp": "2025-04-11T10:00:00"
+        },
+        {
+            "text": "play relaxing music on youtube",
+            "category": "youtube_play",
+            "timestamp": "2025-04-11T10:00:00"
+        },
+        {
+            "text": "search youtube for travel vlogs",
+            "category": "youtube_search",
+            "timestamp": "2025-04-11T10:00:00"
+        },
+        {
+            "text": "get weather",
+            "category": "system_info",
+            "timestamp": "2023-11-05 09:15:22"
+        },
+        {
+            "text": "what's the weather",
+            "category": "system_info",
+            "timestamp": "2023-11-05 09:16:30"
+        },
+        {
+            "text": "check weather in london",
+            "category": "system_info",
+            "timestamp": "2023-11-05 09:17:45"
+        },
+        {
+            "text": "weather forecast for new york",
+            "category": "system_info",
+            "timestamp": "2023-11-05 09:18:55"
+        },
+        {
+            "text": "tell me the weather",
+            "category": "system_info",
+            "timestamp": "2023-11-05 09:20:10"
+        },
+        {
+            "text": "current weather conditions",
+            "category": "system_info",
+            "timestamp": "2023-11-05 09:21:22"
+        },
+        {
+            "text": "how's the weather today",
+            "category": "system_info",
+            "timestamp": "2023-11-05 09:22:35"
+        },
+        {
+            "text": "weather update for miami",
+            "category": "system_info",
+            "timestamp": "2023-11-05 09:23:45"
+        }
+    ],
+    "patterns": {
+        "system_control": [
+            "open (?P<app>\\w+)",
+            "launch (?P<app>\\w+)",
+            "start (?P<app>\\w+)",
+            "(shutdown|power off|turn off) (computer|pc|system)",
+            "(restart|reboot) (computer|pc|system)",
+            "(lock|log off|sign out) (computer|pc|system)",
+            "(minimize|minimise|maximise|maximize|restore|close) (window|current window)",
+            "(minimize|minimise|maximise|maximize|restore|close)",
+            "(increase|decrease|set) (brightness|volume)",
+            "(mute|unmute) (volume|sound|audio)"
+        ],
+        "media_control": [
+            "^(play|pause|stop|resume)$",
+            "^(next|previous) (track|song)$",
+            "^(next|previous)$",
+            "^(louder|quieter)$",
+            "volume (up|down)"
+        ],
+        "system_info": [
+            "(show|check|get|what's) (cpu|processor|memory|ram|disk|battery|wifi|system) (usage|status|info|information)",
+            "(show|what's) (the|my) (time|date)",
+            "system (status|information)"
+        ],
+        "web_search": [
+            "(search|google|look up|find) (.+)",
+            "(search|look) for (.+)"
+        ],
+        "video_control": [
+            "(play|search|find|watch) (.+) (on|in) youtube",
+            "(play|search|watch) youtube (.+)",
+            "play (first|second|third|fourth|fifth) video"
+        ],
+        "screenshot": [
+            "(take|capture) (a )?(screenshot|screen|picture of (my )?screen)",
+            "screenshot( now)?"
+        ],
+        "info_request": [
+            "(what's|show|get) (the )?(weather|forecast)( in (.+))?",
+            "(show|get|what's) (the )?(news|headlines)"
+        ]
+    },
+    "categories": {
+        "screenshot": [
+            "take a screenshot",
+            "capture screen",
+            "take screenshot",
+            "capture my screen",
+            "screenshot now",
+            "take a picture of my screen",
+            "save my screen",
+            "grab a screenshot",
+            "screenshot"
+        ],
+        "system_info": [
+            "show cpu usage",
+            "show memory status",
+            "check system information",
+            "what's my cpu usage",
+            "show disk space",
+            "check memory usage",
+            "system status",
+            "how much disk space do I have",
+            "show memory usage",
+            "check my battery",
+            "battery status",
+            "battery level",
+            "check battery level",
+            "how much battery do I have",
+            "check wifi",
+            "wifi status",
+            "check network",
+            "network status",
+            "show wifi info",
+            "what's my wifi connection",
+            "show memory usage",
+            "memory information",
+            "check ram",
+            "how much ram is being used",
+            "system monitor",
+            "disk space",
+            "check hard drive",
+            "processor information",
+            "battery and Wi-Fi status",
+            "memory status",
+            "system information"
+        ],
+        "media_control": [
+            "play music",
+            "pause music",
+            "next track",
+            "previous track",
+            "next",
+            "stop",
+            "volume down",
+            "increase volume",
+            "pause video",
+            "set volume to 50%",
+            "set brightness to 70%",
+            "set brightness to 50%",
+            "play as a stuff on youtube",
+            "play arijit singh song on youtube"
+        ],
+        "web_search": [
+            "play shape of you on youtube",
+            "search youtube for bollywood songs",
+            "what's happening in world",
+            "search about laptop on google",
+            "search about laptop",
+            "switch on Google artificial intelligence",
+            "Arijit",
+            "take a screenshot"
+        ],
+        "system_control": [
+            "open notepad",
+            "start chrome",
+            "open instagram",
+            "open settings",
+            "call maximize the window",
+            "cpu usage",
+            "maximize",
+            "minimise the window",
+            "set",
+            "minimise window",
+            "increase brightness",
+            "volume down",
+            "increase volume",
+            "mute",
+            "unmute",
+            "1 2 3 aur ek bar",
+            "set volume to set brightness to 50%",
+            "open Chrome",
+            "launch notepad",
+            "increase volume by 10%",
+            "please volume by 10%",
+            "decrease volume by 10%",
+            "decrease volume by 30%",
+            "volume to 30%",
+            "set volume to 12%",
+            "decrease volume to 12",
+            "brightness to 70%",
+            "minimize",
+            "minimise",
+            "maximize",
+            "maximise",
+            "restore window"
+        ],
+        "video_control": [
+            "play never say never on youtube",
+            "play first video on youtube",
+            "play second video on youtube",
+            "youtube search for music",
+            "play despacito on youtube",
+            "watch a movie",
+            "start a video",
+            "start video",
+            "play video",
+            "youtube",
+            "song on youtube",
+            "search arijit singh on youtube",
+            "open youtube",
+            "search arijit singh songs on youtube",
+            "open youtube and play arijit singh songs",
+            "Ajit Singh song on YouTube",
+            "Arijit Singh song on YouTube"
+        ]
+    },
+    "youtube_search": [
+        "search youtube for music",
+        "find videos about cooking",
+        "search for tutorials on python",
+        "look up music videos",
+        "find documentaries about space",
+        "search youtube tutorials",
+        "find videos on gardening",
+        "search for movie trailers",
+        "look for gaming videos",
+        "find educational content",
+        "youtube search for bollywood songs",
+        "search youtube for latest news",
+        "find workout videos",
+        "search for guitar lessons",
+        "look up coding tutorials",
+        "search youtube for",
+        "find videos of",
+        "search for videos",
+        "look up on youtube",
+        "youtube search"
+    ],
+    "youtube_play": [
+        "play despacito on youtube",
+        "play shape of you",
+        "play never say never",
+        "play cat videos",
+        "play music video",
+        "start playing tutorial",
+        "play documentary",
+        "watch movie trailer",
+        "play gaming video",
+        "start youtube video",
+        "play educational video",
+        "watch music video",
+        "play lecture video",
+        "play first video",
+        "play second video",
+        "play on youtube",
+        "play video",
+        "start playing",
+        "youtube play",
+        "watch video"
+    ],
+    "system_control": [
+        "open chrome browser",
+        "launch notepad",
+        "start calculator",
+        "minimize window",
+        "minimise window",
+        "maximize window",
+        "maximise window",
+        "close current window",
+        "switch to desktop",
+        "open file explorer",
+        "launch settings",
+        "start task manager",
+        "open chrome",
+        "start chrome",
+        "open notepad",
+        "launch word",
+        "start excel",
+        "minimize",
+        "minimise",
+        "maximize",
+        "maximise",
+        "restore window"
+    ],
+    "media_control": [
+        "pause video",
+        "play music",
+        "stop playback",
+        "next track",
+        "previous song",
+        "volume up",
+        "volume down",
+        "mute audio",
+        "unmute sound",
+        "skip track",
+        "increase volume",
+        "decrease volume",
+        "pause music",
+        "resume playback",
+        "stop"
+    ],
+    "system_info": [
+        "check cpu usage",
+        "show memory status",
+        "battery status",
+        "system information",
+        "show temperature",
+        "display disk space",
+        "network status",
+        "show wifi info",
+        "check updates",
+        "display system specs",
+        "show cpu usage",
+        "show memory usage",
+        "check system information",
+        "show disk space",
+        "system status",
+        "show memory"
+    ],
+    "screenshot": [
+        "take a screenshot",
+        "capture screen",
+        "screenshot please",
+        "take screenshot",
+        "grab screenshot",
+        "save screen",
+        "capture window",
+        "screenshot window",
+        "capture display",
+        "save screenshot",
+        "capture my screen",
+        "screenshot now",
+        "take a picture of my screen",
+        "save my screen",
+        "grab a screenshot"
+    ],
+    "web_search": [
+        "search for recipes",
+        "look up weather",
+        "find information about history",
+        "google python programming",
+        "search news about technology",
+        "find restaurants nearby",
+        "look up movie reviews",
+        "search for books",
+        "find shopping deals",
+        "search travel destinations",
+        "what's happening in world",
+        "search for current news",
+        "find local restaurants",
+        "look up movie times",
+        "search for jobs",
+        "search for",
+        "look up",
+        "find information about",
+        "google",
+        "search web for"
+    ],
+    "video_control": [
+        "pause the video",
+        "resume playback",
+        "skip 10 seconds",
+        "go back 30 seconds",
+        "next video",
+        "previous video",
+        "restart video",
+        "stop video",
+        "fast forward",
+        "rewind video",
+        "play video",
+        "pause video",
+        "start video",
+        "stop video",
+        "skip video"
+    ]
+}

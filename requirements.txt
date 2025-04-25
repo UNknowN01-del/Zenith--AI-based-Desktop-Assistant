@@ -1,0 +1,36 @@
+# Core dependencies
+numpy>=1.19.5
+scikit-learn>=0.24.2
+joblib>=1.0.1
+
+# Speech recognition and synthesis
+SpeechRecognition>=3.8.1
+pyttsx3>=2.90
+google-cloud-texttospeech>=2.5.2
+
+# System interaction
+psutil>=5.8.0
+pyautogui>=0.9.52
+keyboard>=0.13.5
+
+# Web interaction
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+
+# String matching and text processing
+python-Levenshtein>=0.21.1
+fuzzywuzzy>=0.18.0
+
+# GUI and visual elements
+tkinter-tooltip>=0.2.1
+pillow>=9.0.0
+
+# Utility packages
+python-dotenv>=0.19.0
+pathlib>=1.0.1
+tqdm>=4.65.0
+colorama>=0.4.6
+
+# Optional dependencies for advanced features
+# transformers==4.37.2
+# torch==2.2.0

@@ -1,0 +1,74 @@
+{
+    "assistant": {
+        "name": "AI Desktop Assistant",
+        "version": "1.0.0",
+        "user": "aman",
+        "voice": {
+            "rate": 180,
+            "volume": 1.0,
+            "prefer_indian_voice": true
+        },
+        "logging": {
+            "level": "INFO",
+            "file": "assistant.log",
+            "max_size_mb": 5,
+            "backup_count": 3
+        }
+    },
+    "commands": {
+        "confidence_threshold": {
+            "low": 0.4,
+            "medium": 0.7,
+            "high": 0.9
+        },
+        "categories": [
+            "system_control",
+            "media_control",
+            "system_info",
+            "web_search",
+            "video_control",
+            "screenshot",
+            "info_request"
+        ],
+        "training_files": {
+            "dataset": "training_data/command_dataset.json",
+            "new_commands": "training_data/new_commands.json",
+            "history": "training_data/command_history.json"
+        }
+    },
+    "paths": {
+        "screenshots": "screenshots",
+        "media": {
+            "audio": "media/audio",
+            "video": "media/video"
+        },
+        "models": "models"
+    },
+    "features": {
+        "brightness_control": {
+            "enabled": true,
+            "step_size": 10
+        },
+        "volume_control": {
+            "enabled": true,
+            "step_size": 10
+        },
+        "youtube": {
+            "enabled": true,
+            "default_browser": ""
+        },
+        "web_search": {
+            "default_engine": "google",
+            "speak_results": false
+        },
+        "system_control": {
+            "confirm_shutdown": true,
+            "confirm_restart": true
+        }
+    },
+    "api_keys": {
+        "weather": "",
+        "news": "",
+        "google_speech": ""
+    }
+} 
